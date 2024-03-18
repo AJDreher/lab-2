@@ -11,6 +11,16 @@ People can click on the markers and get info about the songs, including being ab
 ## What are the intellectual justifications for your choices of data and cartographic stylings?
 I used gold icons for another assignment and liked the look so I used them on this map as well. I used a pretty simple basemap that did not include topography because that information would be irrelevant. 
 ## In what ways could your map be improved? 
-I couldn't figure out how to make the "Add a Song to the Map!" button go away after it was clicked. Also as I mentioned before, it would be nice if the points that other users added were saved. And also if the tabs worked on the public version of the map.
+I couldn't figure out how to make the "Add a Song to the Map!" button go away after it was clicked. In addition, for the tabbed popups to work, you had to "x" out of one popup before clicking on another marker, or else the popup for the second marker you clicked on would not be tabbed. Also as I mentioned before, it would be nice if the points that other users added were saved. And also if the tabs worked on the public version of the map.
+
+<img width="372" alt="image" src="https://github.com/AJDreher/lab-2/assets/78830493/8f4bfb48-5fe3-4e9c-aaf7-9b700c830e94">
+<img width="370" alt="image" src="https://github.com/AJDreher/lab-2/assets/78830493/05bdea06-010c-4745-8b81-33db738244ab">
+
+Tabbed popup for "Angel from Montgomery"
+
+<img width="281" alt="image" src="https://github.com/AJDreher/lab-2/assets/78830493/e5f8be98-3e3a-46fd-8e0a-3a47d821ece3">
+A marker I added using the interactivity tools for "Sweet Home Alabama" (please note that I do not endorse the political views of this band)
+
+
 
 
